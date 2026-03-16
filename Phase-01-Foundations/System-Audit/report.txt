@@ -1,0 +1,18 @@
+--- SYSTEM AUDIT REPORT ---
+Generated on: Mon Mar 16 21:11:18 EAT 2026
+
+1. KERNEL INFO:
+Linux wondadevs 6.17.0-14-generic #14-Ubuntu SMP PREEMPT_DYNAMIC Fri Jan  9 17:01:16 UTC 2026 x86_64 GNU/Linux
+
+2. DISK USAGE (Top 5):
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           2.9G  3.2M  2.9G   1% /run
+/dev/nvme0n1p5  154G   49G   98G  34% /
+tmpfs           7.3G  337M  6.9G   5% /dev/shm
+efivarfs        192K  147K   40K  79% /sys/firmware/efi/efivars
+tmpfs           5.0M   16K  5.0M   1% /run/lock
+
+3. MEMORY STATS:
+               total        used        free      shared  buff/cache   available
+Mem:           14779        9266         539         596        5895        5513
+Swap:           4095           0        4095
