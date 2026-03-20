@@ -19,8 +19,12 @@
     - [x] Chapter 3: Using the Shell
     - [x] Chapter 4: Moving Around the File System
     - [x] Chapter 5: Working with Text Files
-- [ ] **Phase 2: The Command Line**
+- [x] **Phase 2: The Command Line**
+    - [x] Chapter 7: Managing Running Processes
+    - [x] Chapter 8: Writing Simple Shell Scripts
+    - [x] Chapter 9: Scripting with Logic
 - [ ] **Phase 3: System Administration**
+    - [x] Chapter 10: Understanding System Administration
 - [ ] **Phase 4: The Cloud & AI Integration**
 
 ---
